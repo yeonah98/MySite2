@@ -1,2 +1,2 @@
 # MySite
-배포 :  https://yeonah98.github.io/cv/
+배포 :  https://yeonah98.github.io/MySite2/
